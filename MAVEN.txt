@@ -1,0 +1,12 @@
+MAVEN 
+
+https://www7.123movierulz.me/watch-f2-fun-and-frustration-2019-full-movie-online-free-movierulz-3324.html
+-----------
+
+MAVEN command --  mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+https://www.gotomeet.me/devopsonlineb4
+
+for webapp
+
+mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=Webapp -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeVersion=1.4 -DinteractiveMode=false
+https://www.gotomeet.me/devopsonlineb4
